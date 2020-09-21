@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>CLASS AND ID</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        
+        th,
+        td {
+            padding: 10px;
+        }
+        
+        td {
+            color: mediumblue;
+            background-color: papayawhip;
+        }
+        
+        table,
+        td,
+        th {
+            border: 3px solid rgb(184, 9, 9);
+        }
+    </style>
+</head>
+
+<body style="background-color:darkkhaki;">
+    <h1 style="text-align: center; font-size: 50px; color: crimson;margin-bottom: 30px;"><u>EDUCATION DETAILS</u></h1>
+
+    <table align="center" ">
+        <tbody style="font-size: 20px; ">
+            <tr style="color: darkred;font-size:25px;font-family: cursive; ">
+                <th style="background-color: palevioletred; " colspan="3 ">Name:SURBHI SINGH, Roll NO:1906179,Department;CSE</th>
+            </tr>
+            <tr style="color:black;font-size: 25px; background-color: lime; ">
+                <th><b>EDUCATION</b></th>
+                <th ><b>DETAILS</b></th>
+            </tr>
+            <tr>
+                <td >CURRENT EDUCATION</td>
+                <td >B.TECH NIT PATNA, YEAR OF COMLETION:2023 <br>CGPA:9.41(1ST YEAR)</td>
+            </tr>
+            <tr>
+                <td >INTERMEDIATE</td>
+                <TD >SHIVAM INTERNATIONAL SCHOOL,PATNA <br>PERCENTAGE:95%</TD>
+            </tr>
+            <TR>
+                <TD >MATRICULATION</TD>
+                <TD >ST. RAPHAEL'S SCHOOL, INDORE <br>CGPA:10</TD>
+            </TR>
+        </tbody>
+    </table>
+
+</body>
